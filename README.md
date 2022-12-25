@@ -10,8 +10,7 @@ I have always been passionate about numbers and analytics, I interpret data, ana
       <a href="https://github.com/EbGazar?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/EbGazar?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
          <a align="left"> <a href="https://twitter.com/ebgazar" target="blank"><img src="https://img.shields.io/twitter/follow/ebgazar?logo=twitter&style=for-the-badge" alt="ebgazar" /></a> </p>
-   </a>
-        </p>
+
 - 🤝 Who Iam? **have always been passionate about analytics, research and project management, I love interpreting data, analyzing results and produce reports and dashboards, also designing statistical and predictive modelling.**
 
 - 🔭 I’m currently working on **Acquiring AWS Cloud Practitioner Certificate.**
