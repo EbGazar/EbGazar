@@ -1,4 +1,4 @@
-<h1 align="center">🏂🏻 Ebrahim Elgazar</h1>
+# 🏂🏻 Ebrahim Elgazar
 <h3 align="center">I have always been passionate about analytics, research and project management, I love interpreting data, analyzing results and produce reports and dashboards, also designing statistical and predictive modelling.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebgazar&label=Profile%20views&color=0e75b6&style=flat" alt="ebgazar" /> </p>
