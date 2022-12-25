@@ -1,10 +1,8 @@
 # 🏂🏻 Ebrahim Elgazar
 
-**`Data Science Enthusiast`**
+**`Data Science Enthusiast`** <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebgazar&label=Profile%20views&color=0e75b6&style=flat" alt="ebgazar" /> </p>
 
 I have always been passionate about numbers and analytics, I interpret data, analyze results, and produce reports and dashboardsto, also design and create a statistical analysis model using machine learning and deep learning, I have learned valuable programming, problem-solving, and data warehousing skills, I can help deliver strategic insights, recommendations and solutions.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ebgazar&label=Profile%20views&color=0e75b6&style=flat" alt="ebgazar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ebgazar" alt="ebgazar" /></a> </p>
 
