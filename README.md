@@ -5,7 +5,6 @@
 <a href="https://linkedin.com/in/ebgazar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ebgazar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/ebgazar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ebgazar" height="30" width="40" /></a>
 <a href="https://kaggle.com/ebrahimelgazar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ebrahimelgazar" height="30" width="40" /></a>
-<a href="https://fb.com/ebgazar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ebgazar" height="30" width="40" /></a>
 <a href="https://instagram.com/ebgazar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ebgazar" height="30" width="40" /></a>
 <img src="https://komarev.com/ghpvc/?username=ebgazar&label=Profile%20views&color=0e75b6&style=flat" alt="ebgazar" /> 
 </p>
