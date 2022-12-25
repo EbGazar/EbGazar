@@ -1,12 +1,14 @@
 # 🏂🏻 Ebrahim Elgazar.
 
-**`I have always been passionate about analytics, research and project management, I love interpreting data, analyzing results and produce reports and dashboards, also designing statistical and predictive modelling.`**
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebgazar&label=Profile%20views&color=0e75b6&style=flat" alt="ebgazar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ebgazar" alt="ebgazar" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ebgazar" target="blank"><img src="https://img.shields.io/twitter/follow/ebgazar?logo=twitter&style=for-the-badge" alt="ebgazar" /></a> </p>
+
+- 🤝 Who Iam? **have always been passionate about analytics, research and project management, I love interpreting data, analyzing results and produce reports and dashboards, also designing statistical and predictive modelling.**
 
 - 🔭 I’m currently working on **Acquiring AWS Cloud Practitioner Certificate.**
 
