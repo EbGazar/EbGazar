@@ -8,8 +8,8 @@ I have always been passionate about numbers and analytics, I interpret data, ana
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/EbGazar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/EbGazar?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/EbGazar?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-         <p align="left"> <a href="https://twitter.com/ebgazar" target="blank"><img src="https://img.shields.io/twitter/follow/ebgazar?logo=twitter&style=for-the-badge" alt="ebgazar" /></a> </p>
-   </p>
+         <a align="left"> <a href="https://twitter.com/ebgazar" target="blank"><img src="https://img.shields.io/twitter/follow/ebgazar?logo=twitter&style=for-the-badge" alt="ebgazar" /></a> </p>
+   </a>
    
 - 🤝 Who Iam? **have always been passionate about analytics, research and project management, I love interpreting data, analyzing results and produce reports and dashboards, also designing statistical and predictive modelling.**
 
