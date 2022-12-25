@@ -5,13 +5,13 @@
 I have always been passionate about numbers and analytics, I interpret data, analyze results, and produce reports and dashboardsto, also design and create a statistical analysis model using machine learning and deep learning, I have learned valuable programming, problem-solving, and data warehousing skills, I can help deliver strategic insights, recommendations and solutions.
 
 <p align="left">
-          <a align="left"> <a href="https://twitter.com/ebgazar" target="blank"><img src="https://img.shields.io/twitter/follow/ebgazar?logo=twitter&style=for-the-badge" alt="ebgazar" /></a> </p>
-   </a>
+          
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/EbGazar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/EbGazar?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/EbGazar?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-        
-   
+         <a align="left"> <a href="https://twitter.com/ebgazar" target="blank"><img src="https://img.shields.io/twitter/follow/ebgazar?logo=twitter&style=for-the-badge" alt="ebgazar" /></a> </p>
+   </a>
+        </p>
 - 🤝 Who Iam? **have always been passionate about analytics, research and project management, I love interpreting data, analyzing results and produce reports and dashboards, also designing statistical and predictive modelling.**
 
 - 🔭 I’m currently working on **Acquiring AWS Cloud Practitioner Certificate.**
