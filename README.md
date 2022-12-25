@@ -1,10 +1,6 @@
-# 🏂🏻 Ebrahim Elgazar
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ebgazar&label=Profile%20views&color=0e75b6&style=flat" alt="ebgazar" /> </p>
+# 🏂🏻 Ebrahim Elgazar <img src="https://komarev.com/ghpvc/?username=ebgazar&label=Profile%20views&color=0e75b6&style=flat" alt="ebgazar" /> 
 
 I have always been passionate about numbers and analytics, I interpret data, analyze results, and produce reports and dashboardsto, also design and create a statistical analysis model using machine learning and deep learning, I have learned valuable programming, problem-solving, and data warehousing skills, I can help deliver strategic insights, recommendations and solutions.
-
----
 
 <p align="left">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/EbGazar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -13,6 +9,8 @@ I have always been passionate about numbers and analytics, I interpret data, ana
           <a href="https://twitter.com/ebgazar" target="blank"><img src="https://img.shields.io/twitter/follow/ebgazar?logo=twitter&style=for-the-badge" alt="ebgazar" /></a>
 
    </p>
+
+---
 
 - 🤝 Who Iam? **have always been passionate about analytics, research and project management, I love interpreting data, analyzing results and produce reports and dashboards, also designing statistical and predictive modelling.**
 
