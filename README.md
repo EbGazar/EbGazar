@@ -17,10 +17,7 @@ I have always been passionate about numbers and analytics, I interpret data, ana
    <p align="left">
   
 ---
-
-# Programming Languages and Tools
  
-
  <img align="left" alt="Power BI" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/512/power-bi.png" />
  <img align="left" alt="Pytorch" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />
 <img align="left" alt="OpenCV" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/512/opencv.png" />
@@ -46,6 +43,6 @@ I have always been passionate about numbers and analytics, I interpret data, ana
 
 ![Ebrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebgazar&show_icons=true&theme=highcontrast)
  
- ---
+
  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=EbGazar&theme=highcontrast)](https://git.io/streak-stats)
