@@ -1,6 +1,8 @@
-# 🏂🏻 Ebrahim Elgazar.
+# 🏂🏻 Ebrahim Elgazar
 
+**`Data Analyst / Data Scientist`**
 
+I have always been passionate about numbers and analytics, which led me to pursue a Certificate in Data Science. I interpret data, analyze results, and produce reports to help my company also design and create a statistical analysis model, I have learned valuable programming, problem-solving, and data warehousing skills. I am eager to bring my knowledge to this position with the Company. I would love to join your team so I can help deliver strategic insight and recommendations that will help the Company increase customers and sales, I am excited to bring studies and my expertise in collecting, cleaning, and analyzing raw data to the Company. As the Data Scientist/Analyst/Engineer, I can help develop actionable strategic insights that will help your company grow. With my skills in statistical programming and data visualization, I am confident I would be a great fit for the position.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebgazar&label=Profile%20views&color=0e75b6&style=flat" alt="ebgazar" /> </p>
 
