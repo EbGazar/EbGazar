@@ -20,8 +20,7 @@ I have always been passionate about numbers and analytics, I interpret data, ana
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="OpenCV" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/512/opencv.png" />
- <img align="left" alt="OpenCV" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/512/opencv.png" />
+ <img align="left" alt="Power BI" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/512/power-bi.png" />
  <img align="left" alt="Pytorch" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />
 <img align="left" alt="OpenCV" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/512/opencv.png" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/512/mysql-logo.png" />
