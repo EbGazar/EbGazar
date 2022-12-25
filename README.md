@@ -41,9 +41,10 @@ I have always been passionate about numbers and analytics, I interpret data, ana
 
 #
 
-### 📺 States
+### 📺 Stats
 
-
+![Ebrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebgazar&show_icons=true&theme=gruvbox)
+ 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ebgazar&show_icons=true&locale=en&layout=compact" alt="ebgazar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ebgazar&show_icons=true&locale=en" alt="ebgazar" /></p>
