@@ -45,5 +45,4 @@ I have always been passionate about numbers and analytics, I interpret data, ana
 ### GitHub Stats
 
 ![Ebrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebgazar&show_icons=true&theme=highcontrast)
- 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=EbGazar&theme=highcontrast)](https://git.io/streak-stats)
