@@ -13,8 +13,6 @@ I have always been passionate about numbers and analytics, I interpret data, ana
           <a href="https://twitter.com/ebgazar" target="blank"><img src="https://img.shields.io/twitter/follow/ebgazar?logo=twitter&style=for-the-badge" alt="ebgazar" /></a>
 
    </p>
-   
----
 
 - 🤝 Who Iam? **have always been passionate about analytics, research and project management, I love interpreting data, analyzing results and produce reports and dashboards, also designing statistical and predictive modelling.**
 
