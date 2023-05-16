@@ -5,7 +5,9 @@
 <img src="https://komarev.com/ghpvc/?username=ebgazar&label=Profile%20views&color=0e75b6&style=flat" alt="ebgazar" /> 
 </p>
 
-I have always been passionate about numbers and analytics, I interpret data, analyze results, and produce reports and dashboardsto, also design and create a statistical analysis model using machine learning and deep learning, I have learned valuable programming, problem-solving, and data warehousing skills, I can help deliver strategic insights, recommendations and solutions.
+I am a Junior Data Scientist with hands-on experience in predictive modeling, natural language processing, and computer vision. I have a strong foundation in machine learning and deep learning algorithms, including Transformers like GPT-3 and Bert. I have experience in data cleaning and preprocessing, feature selection, and model evaluation. With a keen eye for detail and a passion for solving complex problems, I have pursued my skills through BEDO training in data science and big data analytics, the Google Data Analytics Program, and by participating in many projects and competitions in Kaggle.
+
+I am always looking for new challenges and opportunities to learn and grow. I am passionate about using data science to make a positive impact on the world.
 
 <p align="left">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/EbGazar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
