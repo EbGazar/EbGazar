@@ -1,1 +1,1 @@
-I love AI things <3
+I love doing ai things.
